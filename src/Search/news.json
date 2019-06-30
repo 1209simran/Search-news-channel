@@ -1,0 +1,110 @@
+[
+  {
+    "name": "A1 TV channel"
+  },
+  {
+    "name": "Aaj Tak"
+  },
+  {
+    "name": "ABP News"
+  },
+  {
+    "name": "Aryan TV"
+  },
+  {
+    "name": "BloombergQuint"
+  },
+  {
+    "name": "BTVI"
+  },
+  {
+    "name": "CNBC Awaaz"
+  },
+  {
+    "name": "CNBC TV18"
+  },
+  {
+    "name": "DD News"
+  },
+  {
+    "name": "DD News",
+    "code": "AO"
+  },
+  {
+    "name": "Dilli Aaj Tak",
+    "code": "AI"
+  },
+  {
+    "name": "ET Now"
+  },
+  {
+    "name": "India News",
+    "code": "AQ"
+  },
+  {
+    "name": "India Today"
+  },
+  {
+    "name": "India TV",
+    "code": "AG"
+  },
+  {
+    "name": "Janta TV",
+    "code": "AR"
+  },
+  {
+    "name": "Khabar Bharti",
+    "code": "AM"
+  },
+  {
+    "name": "Live India",
+    "code": "AW"
+  },
+  {
+    "name": "Lok Sabha TV",
+    "code": "AU"
+  },
+  {
+    "name": "Mirror Now"
+  },
+  {
+    "name": "NDTV India",
+    "code": "AT"
+  },
+  {
+    "name": "News 24",
+    "code": "AZ"
+  },
+  {
+    "name": "News Nation",
+    "code": "BS"
+  },
+  {
+    "name": "News18 India",
+    "code": "BH"
+  },
+  {
+    "name": "Rajya Sabha TV",
+    "code": "BD"
+  },
+  {
+    "name": "Republic Bharat ",
+    "code": "BB"
+  },
+  {
+    "name": "Total TV",
+    "code": "BY"
+  },
+  {
+    "name": "ZEE Business",
+    "code": "BE"
+  },
+  {
+    "name": "ZEE Hindustan",
+    "code": "BZ"
+  },
+  {
+    "name": "ZEE News",
+    "code": "BJ"
+  }
+]

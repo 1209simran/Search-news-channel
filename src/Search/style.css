@@ -1,0 +1,9 @@
+.md-form .prefix {
+  left: 0;
+  top: 12px;
+}
+
+.search label {
+  color: rgb(174, 238, 235);
+  margin-top: -8px;
+}
