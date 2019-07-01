@@ -17,10 +17,16 @@ class App extends Component {
       <div className="col-md-3" style={{ marginTop: "20px" }}>
         <Card>
           <CardBody>
-            <CardTitle title={news.name}>
-              {news.name.substring(0, 15)}
-              {news.name.length > 15 && "..."}
-            </CardTitle>
+            <a href={news.url}>
+              <CardTitle title={news.name}>
+                {news.name.substring(0, 15)}
+                {news.name.length > 15 && "..."}
+              </CardTitle>
+            </a>
+            <h5>
+              {news.description.substring(0, 60)}
+              {news.description.length > 60 && "..."}
+            </h5>
           </CardBody>
         </Card>
       </div>
